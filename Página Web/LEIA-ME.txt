@@ -1,0 +1,9 @@
+Bem vindo ao projeto da minha primeira página web.
+Instrução:
+
+1-Baixe o arquivo e depois vá para index.html
+
+Não é necessário abrir nenhum outro arquivo.
+Algumas imagens ou itens podem estar não posicionados corretamente pois a página está em desenvolvimento.
+
+Faça bom proveito :)
